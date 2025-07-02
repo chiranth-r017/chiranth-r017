@@ -16,9 +16,10 @@
 
 - 📫 Reach me at **chiranth.parvam@gmail.com**
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
+</p>
 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
