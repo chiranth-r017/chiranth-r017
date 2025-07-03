@@ -8,7 +8,7 @@
 
 - 🎓 I recently completed my **B.E in Electronics & Communication Engineering from RRIT**
 
-- 🧠 Exploring **Full Stack Development**, **Java**and **SQL**
+- 🧠 Exploring **Full Stack Development**, **Java** and **SQL**
 
 - 💬 Ask me about **HTML, CSS, Basic Java**
 
