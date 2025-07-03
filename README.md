@@ -10,11 +10,15 @@
 
 - 🧠 Exploring **Full Stack Development**, **Java**and **SQL**
 
-- 💬 Ask me about **HTML, Basic Java
+- 💬 Ask me about **HTML, CSS, Basic Java**
+
+- 🏅 Best Outgoing Student - **Batch of 2007–2019, St. Mary's English High School**
 
 - 🏆 3rd Place - **Techtopia Mekari 2025 (State Level)**
 
-- 📫 Reach me at **chiranth.parvam@gmail.com**
+- 🏅 Silver Medalist - **National Leadership Talent Search Examination (Eliminatory Level)**
+
+- 📫 Reach me at **chiranthramakrishna.smr@gmail.com**
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
@@ -33,5 +37,3 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yourusername"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" /></a></p><br><br>
